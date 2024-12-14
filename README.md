@@ -21,3 +21,5 @@ Proyek ini bertujuan untuk membuat aplikasi web yang dapat mengenkripsi dan mend
 - **Kriptografi**: Vigenère Cipher
 - **CORS**: Untuk mengizinkan akses dari berbagai domain.
 
+![Deskripsi Gambar](https://github.com/Adikaraalff/vigenere-cipher/blob/main/Image.png?raw=true)
+
