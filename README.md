@@ -20,3 +20,4 @@ Proyek ini bertujuan untuk membuat aplikasi web yang dapat mengenkripsi dan mend
 - **Backend**: Flask (Python)
 - **Kriptografi**: Vigenère Cipher
 - **CORS**: Untuk mengizinkan akses dari berbagai domain.
+
